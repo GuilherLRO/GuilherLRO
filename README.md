@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuilherLRO
 - 👀 I’m on a jouney to learn how to work powerfuly with data.
-- 🌱 I’m currently learning topics related to data science.
+- 🌱 I’m currently working with data analysis in the technology filed.
 - 💞️ I’d prefer to collaborate on business related problems.
 
 <!---
