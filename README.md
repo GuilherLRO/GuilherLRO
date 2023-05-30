@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a data analysis specialist. I have several yea
 
 ### Projects
 
-Here are a few of my significant projects that showcase my skills and expertise:
+Here are a few of my projects:
 
 - [☕ Starbucks Offer Acceptance Forecast Model With AWS](https://github.com/GuilherLRO/Starbucks-Offer-Acceptance-Forecast-Model-With-AWS): Applying machine learning engineering concepts, this project demonstrates an end-to-end solution using multiple AWS services such as S3, Lambda, Cloud Watch, IAM, and SageMaker.
 
