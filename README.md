@@ -20,7 +20,7 @@ I have a strong background in data analysis and have worked in various contexts,
 
 ### Contact Me
 
-You can reach out to me via email at [your-email@example.com](mailto:guilhermelro2@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/guilhermelro/).
+You can reach out to me via email at [guilhermelro2@gmail.com](mailto:guilhermelro2@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile)]
 
 
 <!---
