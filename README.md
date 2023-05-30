@@ -9,7 +9,7 @@ Here are a few of my significant projects that showcase my skills and expertise:
 - [☕ Starbucks Offer Acceptance Forecast Model With AWS](https://github.com/GuilherLRO/Starbucks-Offer-Acceptance-Forecast-Model-With-AWS): Applying machine learning engineering concepts, this project demonstrates an end-to-end solution using multiple AWS services such as S3, Lambda, Cloud Watch, IAM, and SageMaker.
 
 - [💰Finance Tools](https://github.com/GuilherLRO/finance-tools): This repository contains programs that leverage financial data from various companies to generate reports for effective money management. Gain insights into spending habits, investment performance, and more.
-- 
+
 - [🌎Looking for a business oportinuty in Brazil](https://github.com/GuilherLRO/IBM-Data-Science-Professional-Certificate_Capstone): Utilizing web scraping and the Foursquare API, this project identifies potential business opportunities in Brazil based on geographical coordinates.
 
 Feel free to explore my GitHub repositories for more projects and code samples.
@@ -20,7 +20,7 @@ I have a strong background in data analysis and have worked in various contexts,
 
 ### Contact Me
 
-You can reach out to me via [email](mailto:guilhermelro2@gmail.com) or connect with me on [LinkedIn](mailto:https://www.linkedin.com/in/your-linkedin-profile)
+You can reach out to me via [email](mailto:guilhermelro2@gmail.com) or connect with me on [LinkedIn](mailto:https://www.linkedin.com/in/your-linkedin-profile).
 
 
 <!---
