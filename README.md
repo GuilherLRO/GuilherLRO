@@ -10,7 +10,7 @@ Here are a few of my significant projects that showcase my skills and expertise:
 
 - [💰Finance Tools](https://github.com/GuilherLRO/finance-tools): This repository contains programs that leverage financial data from various companies to generate reports for effective money management. Gain insights into spending habits, investment performance, and more.
 
-- [🌎Looking for a business oportinuty in Brazil](https://github.com/GuilherLRO/IBM-Data-Science-Professional-Certificate_Capstone): Utilizing web scraping and the Foursquare API, this project identifies potential business opportunities in Brazil based on geographical coordinates.
+- [🌎Looking for a business oportinity in Brazil](https://github.com/GuilherLRO/IBM-Data-Science-Professional-Certificate_Capstone): Utilizing web scraping and the Foursquare API, this project identifies potential business opportunities in Brazil based on geographical coordinates.
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
