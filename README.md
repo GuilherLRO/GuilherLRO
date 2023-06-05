@@ -18,9 +18,14 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 
 I have a strong background in data analysis and have worked in various contexts, including an e-commerce startup, Ambev (in the sales directory department), and my current position. My focus has always been on delivering data-driven solutions that drive business success.
 
-### Contact Me
-
-You can reach out to me via [email](mailto:guilhermelro2@gmail.com) or connect with me on [LinkedIn](mailto:https://www.linkedin.com/in/your-linkedin-profile).
+##
+ 
+<div> 
+  <a href = "https://www.linkedin.com/in/guilhermelro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermelro2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://medium.com/@guilherme-lawrence/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"target="_blank"></a>
+                                                                        
+</div>
 
 
 <!---
