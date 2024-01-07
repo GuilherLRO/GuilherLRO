@@ -8,9 +8,11 @@ Here are a few of my projects:
 
 - [☕ Starbucks Offer Acceptance Forecast Model With AWS](https://github.com/GuilherLRO/Starbucks-Offer-Acceptance-Forecast-Model-With-AWS): Applying machine learning engineering concepts, this project demonstrates an end-to-end solution using multiple AWS services such as S3, Lambda, Cloud Watch, IAM, and SageMaker.
 
+- [🌦️🔄 Weather Data Pipeline](https://github.com/GuilherLRO/weather-data-pipeline) Development of data pipeline that deals with weather data including BI visualizations. This project is based on multiple docker environments 🐳 , orchestrastrated by airflow, fulled with data by weatherapi.com 🌎 and finilized with a matabase Bi implementation 📊.
+
 - [💰Finance Tools](https://github.com/GuilherLRO/finance-tools): This repository contains programs that leverage financial data from various companies to generate reports for effective money management. Gain insights into spending habits, investment performance, and more.
 
-- [🌎Looking for a business oportinity in Brazil](https://github.com/GuilherLRO/IBM-Data-Science-Professional-Certificate_Capstone): Utilizing web scraping and the Foursquare API, this project identifies potential business opportunities in Brazil based on geographical coordinates.
+- [🔎💸Looking for a business oportinity in Brazil](https://github.com/GuilherLRO/IBM-Data-Science-Professional-Certificate_Capstone): Utilizing web scraping and the Foursquare API, this project identifies potential business opportunities in Brazil based on geographical coordinates.
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
