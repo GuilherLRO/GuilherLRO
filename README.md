@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a data analysis specialist. I have several yea
 ### Projects
 
 Here are a few of my projects:
-- [🐥Local large datasets analysis with duckDB](https://github.com/GuilherLRO/brasilian_companies_analysis_with_duckdb):
+- [🐥Local large datasets analysis with duckDB](https://github.com/GuilherLRO/brasilian_companies_analysis_with_duckdb): Leveraging multiple tools to explore many gigabytes of open data from efficient data ingestion to displaying compelling visuals.
 - [☕ Starbucks Offer Acceptance Forecast Model With AWS](https://github.com/GuilherLRO/Starbucks-Offer-Acceptance-Forecast-Model-With-AWS): Leveraging multiple tools to explore many gigabytes of open data from efficient data ingestion to displaying compelling visuals.
 
 - [🌦️🔄 Weather Data Pipeline](https://github.com/GuilherLRO/weather-data-pipeline) Development of data pipeline that deals with weather data including BI visualizations. This project is based on multiple docker environments 🐳 , orchestrastrated by airflow, fulled with data by weatherapi.com 🌎 and finilized with a matabase Bi implementation 📊.
