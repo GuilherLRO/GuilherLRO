@@ -1,6 +1,6 @@
 ## Hi there, I'm Guillherme Lawrence 👋
 
-Welcome to my GitHub profile! I'm a data analysis specialist. I have several years of experience working closely with business teams, providing data-driven solutions. [🌎Here is my portfolio website](https://guilherlro.github.io/portfolio/).
+Welcome to my GitHub profile! I'm a data analysis specialist. I have several years of experience working closely with business teams, providing data-driven solutions. [🌎Here is my portfolio website](http://guilhermethedataguy.com/).
 
 ### Projects
 
